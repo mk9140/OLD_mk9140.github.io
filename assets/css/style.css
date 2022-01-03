@@ -598,7 +598,7 @@ section {
 }
 
 .section-title {
-  padding-bottom: 40px;
+  /*padding-bottom: 40px;*/
 }
 .section-title h2 {
   font-size: 14px;
@@ -938,7 +938,7 @@ section {
 # Events
 --------------------------------------------------------------*/
 .events {
-  background: url(../img/events-bg.jpg) center center no-repeat;
+  background: url(../img/wallpaper.jpg) center center no-repeat;
   background-size: cover;
   position: relative;
 }
